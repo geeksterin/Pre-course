@@ -1,0 +1,78 @@
+* {
+    margin: 0;
+    text-align: center;
+    
+}
+body {
+    background: linear-gradient(45deg,limegreen,coral);
+   
+}
+table {
+    width: 100%;
+    margin-top: 30px;
+}
+img {
+    border-radius: 10px;
+    box-shadow: 0 0 10px black;
+}
+ 
+
+#header {
+    background-color: black;
+    height: 70px;
+}
+h1 {
+    color: cornsilk
+}
+#brand {
+  width: 40%;
+  float: left;
+  line-height: 70px;
+  height: 70px;
+  text-align: center;
+}
+
+#menu {
+  width: 60%;
+  float: right;
+  line-height: 70px;
+  height: 70px;
+  text-align: center;
+}
+
+a {
+    color: cornsilk;
+    margin-right: 30px;
+    text-decoration: none;
+    
+}
+
+#title {
+    margin-top: 35px;
+}
+#pizza {
+    margin-top: 20px;
+}
+#DP {
+  background: linear-gradient(45deg,darkred,black);
+  color: white;
+  width: 500px;
+  padding: 15px;
+  border-radius: 50%;
+  margin:20px auto
+  
+}
+#TB {
+    background: linear-gradient(45deg,darkred,black);
+  color: white;
+  width: 500px;
+  padding: 15px;
+  border-radius: 50%;
+  margin:20px auto
+}
+#footer {
+    background: black;
+    padding: 50px;
+    color: cornsilk;
+    margin-top: 50px;
+}
