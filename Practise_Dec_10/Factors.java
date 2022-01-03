@@ -32,6 +32,6 @@ public class Factors {
  *  49 --> 1,7,49  == 3
  * 
  *  
- * 
+ * Hello, this is a demo for the class
  * 
  */
