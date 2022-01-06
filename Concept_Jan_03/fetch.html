@@ -1,0 +1,27 @@
+<html lang="en">
+  <head>
+    <title>Document</title>
+    <script>
+      function fn() {
+        fetch("https://jsonplaceholder.typicode.com/users")
+          .then((res) => {
+            if (res.ok) {
+              return res.json1();
+            } else {
+              var a = new Error("Something went wrong");
+              alert(a);
+            }
+          })
+          .then((data) => {
+            console.log(data);
+          })
+          .catch(() => {
+            alert("error");
+          });
+      }
+    </script>
+  </head>
+  <body>
+    <button onclick="fn()">Send Request</button>
+  </body>
+</html>
