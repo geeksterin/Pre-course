@@ -1,0 +1,28 @@
+IDE
+
+Integrated Development Environment
+
+Software Developers --> Build Softwares ---> Write code
+
+a place to
+
+-   write our code
+-   execute/ run the code
+-   test the code
+
+IDE is a software where you can do all these things
+
+VS code
+Eclipse
+Netbeans
+IntelliJ
+
+Folders ---> Package
+
+Files ---> Class
+
+A folder is a collection of files and sub-folders
+
+A package is a colelction of classes and sub-packages
+
+//package.com.company

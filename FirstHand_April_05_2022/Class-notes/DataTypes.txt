@@ -1,0 +1,22 @@
+In Java
+
+Data types --> 
+The type of data any variable can store
+
+1.  Primitive Data Types --> Pre-existing data types
+byte, short, int, long,      float, double,     char,    boolean  ==> 8
+
+
+byte, short, int, long, ==> 
+used to store whole Integers. (+ve, 0, -ve, not a decimal/fraction) 100, -34, 0,   not 0.56
+
+
+
+2. Non Primitive Data types --> Data types that are created by user
+Strings  ==> 1
+
+
+Arrays, 
+Objects
+Interface
+Classes
